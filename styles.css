@@ -1,0 +1,20 @@
+h1{
+  font-family:sans-serif;
+  font-family: 'Satisfy', cursive;
+  color:#cc0000;
+}
+
+body{
+  text-align: center;
+  background-color: black;
+}
+.Subscribe{
+  border-radius: 15px;
+  height: 20px;
+  width: 70px;
+  background-color: red;
+  color: white;
+  position: absolute;
+  right: 40px;
+  top: 250px;
+}
